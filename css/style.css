@@ -12,6 +12,8 @@ body {
 
 h1 {
   font-family: 'Oswald', sans-serif;
+  font-size: 36px;
+  color: blue;
 }
 
 .timeline {
