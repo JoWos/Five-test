@@ -6,7 +6,9 @@ body {
     text-align: justify;
     font-family: 'Dosis', sans-serif;
     color: #f2f2f0;
-    background-color: #1b3c59;
+    background-image: url('https://images.pexels.com/photos/109919/pexels-photo-109919.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260');
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 h1 {
@@ -112,7 +114,20 @@ h1 {
     }
 }
 
+.text {
+    display: block;
+    width: 48%;
+    height: 80%;
+    top: 10%;
+    margin-left: 50%;
+    float: right;
 
+    h1,
+    h2 {
+        color: red;
+
+    }
+}
 
 
 
