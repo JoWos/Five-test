@@ -92,12 +92,16 @@ h1 {
 .text {
   display: block;
   width: 48%;
-  height: 80%;
+  height: 60%;
   top: 10%;
   margin-left: 50%;
-  float: right; }
+  float: right;
+  background-color: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  padding: 10px; }
   .text h1,
   .text h2 {
-    color: red; }
+    color: red;
+    border-bottom: none; }
 
 /*# sourceMappingURL=style.css.map */
