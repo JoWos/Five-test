@@ -1,1 +1,1 @@
-https://jowos.github.io/learning-git-2/
+ https://jowos.github.io/delete-test/
